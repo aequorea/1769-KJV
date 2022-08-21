@@ -5,3 +5,5 @@ These are images of a so-called "second issue" of the 1769 King James Bible that
 To download the images press the Code button and select "download ZIP."
 
 These are raw images and not super convenient to view, but we'll be working on that over time.
+
+Thanks!!
