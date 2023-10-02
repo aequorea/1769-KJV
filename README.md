@@ -8,7 +8,7 @@ These are raw images and not super convenient to view. For something easier to l
 
 https://archive.org/details/kjv-1769-1772-blayney-folio
 
-The text version is a work in progress and is here: 
+The text version is a work in progress. Go here and press the download button: 
 
 https://github.com/aequorea/1769-KJV/blob/main/Bible_1769_mut.txt
 
