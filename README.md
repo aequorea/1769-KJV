@@ -7,5 +7,7 @@ To download the images press the Code button and select "download ZIP."
 These are raw images and not super convenient to view. For something easier to look at head on over to archive.org and get a PDF:
 https://archive.org/details/kjv-1769-1772-blayney-folio
 
+The text version is a work in progress and is here: 
+
 
 Thanks!!
