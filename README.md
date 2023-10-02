@@ -10,6 +10,6 @@ https://archive.org/details/kjv-1769-1772-blayney-folio
 
 The text version is a work in progress and is here: 
 
-https://github.com/github/codeql/blob/main/Bible_1769_mut.txt
+https://github.com/aequorea/1769-KJV/blob/main/Bible_1769_mut.txt
 
 Thanks!!
